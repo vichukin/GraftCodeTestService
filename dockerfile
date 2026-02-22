@@ -20,5 +20,5 @@ COPY /bin/Release/net8.0/publish/ /usr/app/
 
 EXPOSE 80
 EXPOSE 81
-# And run Graftcode Gateway passing name of modules that should be exposed
+#Type your project key *
 CMD ["gg","--projectKey","YOUR PROJECT KEY","--modules", "/usr/app/GraftCodeTestServices.dll"]
