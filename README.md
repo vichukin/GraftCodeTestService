@@ -1,6 +1,6 @@
 # Graftcode Test Service
 
-This repository contains a simple .NET backend service that exposes a "Hello World" method. It is designed to demonstrate the integration with **Graftcode** and the **Graftcode Gateway (gg)** running locally.
+This repository contains a simple .NET backend service that exposes a "Hello from GraftCodeTestService!" method. It is designed to demonstrate the integration with **Graftcode** and the **Graftcode Gateway (gg)** running locally.
 
 ## Prerequisites
 
