@@ -1,0 +1,11 @@
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\bin\Release\net8.0\GraftCodeTestServices.deps.json
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\bin\Release\net8.0\GraftCodeTestServices.dll
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\bin\Release\net8.0\GraftCodeTestServices.pdb
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\obj\Release\net8.0\GraftCodeTestServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\obj\Release\net8.0\GraftCodeTestServices.AssemblyInfoInputs.cache
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\obj\Release\net8.0\GraftCodeTestServices.AssemblyInfo.cs
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\obj\Release\net8.0\GraftCodeTestServices.csproj.CoreCompileInputs.cache
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\obj\Release\net8.0\GraftCodeTestServices.dll
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\obj\Release\net8.0\refint\GraftCodeTestServices.dll
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\obj\Release\net8.0\GraftCodeTestServices.pdb
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\obj\Release\net8.0\ref\GraftCodeTestServices.dll

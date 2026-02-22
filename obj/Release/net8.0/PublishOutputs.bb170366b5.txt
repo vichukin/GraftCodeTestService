@@ -1,0 +1,3 @@
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\bin\Release\net8.0\publish\GraftCodeTestServices.dll
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\bin\Release\net8.0\publish\GraftCodeTestServices.deps.json
+C:\Users\artuo\source\repos\GraftCodeTestService\GraftCodeTestService\bin\Release\net8.0\publish\GraftCodeTestServices.pdb
